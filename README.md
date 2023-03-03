@@ -6,7 +6,7 @@ Since then I pushed **9** commits, opened **0** issues, submitted **0** pull req
 
 Most used languages across my projects:
 
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B159.6%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B136.1%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B14.1%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B161.8%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B135.6%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.5%25)
 
